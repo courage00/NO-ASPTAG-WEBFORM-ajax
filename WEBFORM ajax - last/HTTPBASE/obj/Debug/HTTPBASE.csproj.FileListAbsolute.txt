@@ -1,0 +1,132 @@
+C:\Users\VENCIN\Documents\Visual Studio 2013\Projects\HTTPBASE\HTTPBASE\bin\HTTPBASE.dll.config
+C:\Users\VENCIN\Documents\Visual Studio 2013\Projects\HTTPBASE\HTTPBASE\bin\HTTPBASE.dll
+C:\Users\VENCIN\Documents\Visual Studio 2013\Projects\HTTPBASE\HTTPBASE\bin\HTTPBASE.pdb
+C:\Users\VENCIN\Documents\Visual Studio 2013\Projects\HTTPBASE\HTTPBASE\bin\EntityFramework.dll
+C:\Users\VENCIN\Documents\Visual Studio 2013\Projects\HTTPBASE\HTTPBASE\bin\EntityFramework.SqlServer.dll
+C:\Users\VENCIN\Documents\Visual Studio 2013\Projects\HTTPBASE\HTTPBASE\bin\EntityFramework.xml
+C:\Users\VENCIN\Documents\Visual Studio 2013\Projects\HTTPBASE\HTTPBASE\bin\EntityFramework.SqlServer.xml
+C:\Users\VENCIN\Documents\Visual Studio 2013\Projects\HTTPBASE\HTTPBASE\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\VENCIN\Documents\Visual Studio 2013\Projects\HTTPBASE\HTTPBASE\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\VENCIN\Documents\Visual Studio 2013\Projects\HTTPBASE\HTTPBASE\obj\Debug\HTTPBASE.csprojResolveAssemblyReference.cache
+C:\Users\VENCIN\Documents\Visual Studio 2013\Projects\HTTPBASE\HTTPBASE\obj\Debug\HTTPBASE.dll
+C:\Users\VENCIN\Documents\Visual Studio 2013\Projects\HTTPBASE\HTTPBASE\obj\Debug\HTTPBASE.pdb
+C:\Users\VENCIN\Documents\Visual Studio 2013\Projects\WEBFORM\HTTPBASE\bin\HTTPBASE.dll.config
+C:\Users\VENCIN\Documents\Visual Studio 2013\Projects\WEBFORM\HTTPBASE\bin\HTTPBASE.dll
+C:\Users\VENCIN\Documents\Visual Studio 2013\Projects\WEBFORM\HTTPBASE\bin\HTTPBASE.pdb
+C:\Users\VENCIN\Documents\Visual Studio 2013\Projects\WEBFORM\HTTPBASE\bin\EntityFramework.dll
+C:\Users\VENCIN\Documents\Visual Studio 2013\Projects\WEBFORM\HTTPBASE\bin\EntityFramework.SqlServer.dll
+C:\Users\VENCIN\Documents\Visual Studio 2013\Projects\WEBFORM\HTTPBASE\bin\EntityFramework.xml
+C:\Users\VENCIN\Documents\Visual Studio 2013\Projects\WEBFORM\HTTPBASE\bin\EntityFramework.SqlServer.xml
+C:\Users\VENCIN\Documents\Visual Studio 2013\Projects\WEBFORM\HTTPBASE\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\VENCIN\Documents\Visual Studio 2013\Projects\WEBFORM\HTTPBASE\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\VENCIN\Documents\Visual Studio 2013\Projects\WEBFORM\HTTPBASE\obj\Debug\HTTPBASE.csprojResolveAssemblyReference.cache
+C:\Users\VENCIN\Documents\Visual Studio 2013\Projects\WEBFORM\HTTPBASE\obj\Debug\HTTPBASE.dll
+C:\Users\VENCIN\Documents\Visual Studio 2013\Projects\WEBFORM\HTTPBASE\obj\Debug\HTTPBASE.pdb
+G:\Download\training\程式範本檔(含資料庫)\WEBFORM\HTTPBASE\bin\HTTPBASE.dll.config
+G:\Download\training\程式範本檔(含資料庫)\WEBFORM\HTTPBASE\bin\HTTPBASE.dll
+G:\Download\training\程式範本檔(含資料庫)\WEBFORM\HTTPBASE\bin\HTTPBASE.pdb
+G:\Download\training\程式範本檔(含資料庫)\WEBFORM\HTTPBASE\bin\EntityFramework.dll
+G:\Download\training\程式範本檔(含資料庫)\WEBFORM\HTTPBASE\bin\EntityFramework.SqlServer.dll
+G:\Download\training\程式範本檔(含資料庫)\WEBFORM\HTTPBASE\bin\System.Net.Http.dll
+G:\Download\training\程式範本檔(含資料庫)\WEBFORM\HTTPBASE\bin\System.Net.Http.WebRequest.dll
+G:\Download\training\程式範本檔(含資料庫)\WEBFORM\HTTPBASE\bin\System.Net.Http.xml
+G:\Download\training\程式範本檔(含資料庫)\WEBFORM\HTTPBASE\bin\System.Net.Http.WebRequest.xml
+G:\Download\training\程式範本檔(含資料庫)\WEBFORM\HTTPBASE\bin\EntityFramework.xml
+G:\Download\training\程式範本檔(含資料庫)\WEBFORM\HTTPBASE\bin\EntityFramework.SqlServer.xml
+G:\Download\training\程式範本檔(含資料庫)\WEBFORM\HTTPBASE\bin\zh-Hant\EntityFramework.resources.dll
+G:\Download\training\程式範本檔(含資料庫)\WEBFORM\HTTPBASE\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+G:\Download\training\程式範本檔(含資料庫)\WEBFORM\HTTPBASE\obj\Debug\HTTPBASE.csprojResolveAssemblyReference.cache
+G:\Download\training\程式範本檔(含資料庫)\WEBFORM\HTTPBASE\obj\Debug\HTTPBASE.dll
+G:\Download\training\程式範本檔(含資料庫)\WEBFORM\HTTPBASE\obj\Debug\HTTPBASE.pdb
+G:\Download\training\程式範本檔(含資料庫)\WEBFORM\HTTPBASE\bin\Newtonsoft.Json.dll
+G:\Download\training\程式範本檔(含資料庫)\WEBFORM\HTTPBASE\bin\Newtonsoft.Json.xml
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM\HTTPBASE\bin\HTTPBASE.dll.config
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM\HTTPBASE\bin\HTTPBASE.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM\HTTPBASE\bin\HTTPBASE.pdb
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM\HTTPBASE\bin\EntityFramework.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM\HTTPBASE\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM\HTTPBASE\bin\Newtonsoft.Json.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM\HTTPBASE\bin\System.Net.Http.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM\HTTPBASE\bin\System.Net.Http.WebRequest.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM\HTTPBASE\bin\Newtonsoft.Json.xml
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM\HTTPBASE\bin\System.Net.Http.xml
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM\HTTPBASE\bin\System.Net.Http.WebRequest.xml
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM\HTTPBASE\bin\EntityFramework.xml
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM\HTTPBASE\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM\HTTPBASE\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM\HTTPBASE\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM\HTTPBASE\obj\Debug\HTTPBASE.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM\HTTPBASE\obj\Debug\HTTPBASE.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM\HTTPBASE\obj\Debug\HTTPBASE.pdb
+G:\程式\練習\AJAX參考\WEBFORM ver2.0\HTTPBASE\bin\HTTPBASE.dll.config
+G:\程式\練習\AJAX參考\WEBFORM ver2.0\HTTPBASE\bin\HTTPBASE.dll
+G:\程式\練習\AJAX參考\WEBFORM ver2.0\HTTPBASE\bin\HTTPBASE.pdb
+G:\程式\練習\AJAX參考\WEBFORM ver2.0\HTTPBASE\bin\EntityFramework.dll
+G:\程式\練習\AJAX參考\WEBFORM ver2.0\HTTPBASE\bin\EntityFramework.SqlServer.dll
+G:\程式\練習\AJAX參考\WEBFORM ver2.0\HTTPBASE\bin\Newtonsoft.Json.dll
+G:\程式\練習\AJAX參考\WEBFORM ver2.0\HTTPBASE\bin\System.Net.Http.dll
+G:\程式\練習\AJAX參考\WEBFORM ver2.0\HTTPBASE\bin\System.Net.Http.WebRequest.dll
+G:\程式\練習\AJAX參考\WEBFORM ver2.0\HTTPBASE\bin\Newtonsoft.Json.xml
+G:\程式\練習\AJAX參考\WEBFORM ver2.0\HTTPBASE\bin\System.Net.Http.xml
+G:\程式\練習\AJAX參考\WEBFORM ver2.0\HTTPBASE\bin\System.Net.Http.WebRequest.xml
+G:\程式\練習\AJAX參考\WEBFORM ver2.0\HTTPBASE\bin\EntityFramework.xml
+G:\程式\練習\AJAX參考\WEBFORM ver2.0\HTTPBASE\bin\EntityFramework.SqlServer.xml
+G:\程式\練習\AJAX參考\WEBFORM ver2.0\HTTPBASE\bin\zh-Hant\EntityFramework.resources.dll
+G:\程式\練習\AJAX參考\WEBFORM ver2.0\HTTPBASE\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+G:\程式\練習\AJAX參考\WEBFORM ver2.0\HTTPBASE\obj\Debug\HTTPBASE.csprojResolveAssemblyReference.cache
+G:\程式\練習\AJAX參考\WEBFORM ver2.0\HTTPBASE\obj\Debug\HTTPBASE.dll
+G:\程式\練習\AJAX參考\WEBFORM ver2.0\HTTPBASE\obj\Debug\HTTPBASE.pdb
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ver2.0\HTTPBASE\bin\HTTPBASE.dll.config
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ver2.0\HTTPBASE\bin\HTTPBASE.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ver2.0\HTTPBASE\bin\HTTPBASE.pdb
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ver2.0\HTTPBASE\bin\EntityFramework.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ver2.0\HTTPBASE\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ver2.0\HTTPBASE\bin\Newtonsoft.Json.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ver2.0\HTTPBASE\bin\System.Net.Http.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ver2.0\HTTPBASE\bin\System.Net.Http.WebRequest.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ver2.0\HTTPBASE\bin\Newtonsoft.Json.xml
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ver2.0\HTTPBASE\bin\System.Net.Http.xml
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ver2.0\HTTPBASE\bin\System.Net.Http.WebRequest.xml
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ver2.0\HTTPBASE\bin\EntityFramework.xml
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ver2.0\HTTPBASE\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ver2.0\HTTPBASE\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ver2.0\HTTPBASE\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ver2.0\HTTPBASE\obj\Debug\HTTPBASE.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ver2.0\HTTPBASE\obj\Debug\HTTPBASE.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ver2.0\HTTPBASE\obj\Debug\HTTPBASE.pdb
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ajax\HTTPBASE\bin\HTTPBASE.dll.config
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ajax\HTTPBASE\bin\HTTPBASE.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ajax\HTTPBASE\bin\HTTPBASE.pdb
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ajax\HTTPBASE\bin\EntityFramework.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ajax\HTTPBASE\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ajax\HTTPBASE\bin\Newtonsoft.Json.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ajax\HTTPBASE\bin\System.Net.Http.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ajax\HTTPBASE\bin\System.Net.Http.WebRequest.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ajax\HTTPBASE\bin\Newtonsoft.Json.xml
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ajax\HTTPBASE\bin\System.Net.Http.xml
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ajax\HTTPBASE\bin\System.Net.Http.WebRequest.xml
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ajax\HTTPBASE\bin\EntityFramework.xml
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ajax\HTTPBASE\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ajax\HTTPBASE\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ajax\HTTPBASE\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ajax\HTTPBASE\obj\Debug\HTTPBASE.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ajax\HTTPBASE\obj\Debug\HTTPBASE.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ajax\HTTPBASE\obj\Debug\HTTPBASE.pdb
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ajax - last\HTTPBASE\bin\HTTPBASE.dll.config
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ajax - last\HTTPBASE\bin\HTTPBASE.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ajax - last\HTTPBASE\bin\HTTPBASE.pdb
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ajax - last\HTTPBASE\bin\EntityFramework.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ajax - last\HTTPBASE\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ajax - last\HTTPBASE\bin\Newtonsoft.Json.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ajax - last\HTTPBASE\bin\System.Net.Http.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ajax - last\HTTPBASE\bin\System.Net.Http.WebRequest.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ajax - last\HTTPBASE\bin\Newtonsoft.Json.xml
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ajax - last\HTTPBASE\bin\System.Net.Http.xml
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ajax - last\HTTPBASE\bin\System.Net.Http.WebRequest.xml
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ajax - last\HTTPBASE\bin\EntityFramework.xml
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ajax - last\HTTPBASE\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ajax - last\HTTPBASE\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ajax - last\HTTPBASE\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ajax - last\HTTPBASE\obj\Debug\HTTPBASE.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ajax - last\HTTPBASE\obj\Debug\HTTPBASE.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\新增資料夾\WEBFORM ajax - last\HTTPBASE\obj\Debug\HTTPBASE.pdb
