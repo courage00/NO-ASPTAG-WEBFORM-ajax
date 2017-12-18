@@ -493,7 +493,6 @@
                             $("#Notes").val("");
                             $("#ManagerID").val("");
                             $("#Salary").val("");
-
                             $("#newblock").hide();
                             alert("新增成功");
                         }
